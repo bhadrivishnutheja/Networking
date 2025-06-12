@@ -1,10 +1,23 @@
 # LFCS
-## Essential Commands
+## Essential Commands 20%
+  - VNC client
+  - windows RDP
+  - Open SSH
+      secure Shell: strong encryption to avoid expose your system on the network, OpenSSH daemon is built carefully to avoid security bugs as much as possible.
+  - telnet: anyone on the network with you could steal your linux username and password.
+    ```bash
+    ip a
+    ssh username@password
 
-## Operations Deployments
+  ### login to local and Remote Graphical and Text Mode Consoles
+  
 
-## Users and Groups
+## Operations Deployments 25%
 
-## Networking
+## Users and Groups 10%
 
-## Storage
+## Networking 25%
+
+## Storage 20%
+
+
