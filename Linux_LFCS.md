@@ -8,9 +8,14 @@
     ```bash
     ip a
     ssh username@password
+    ps -aux (mac: ps aux)
+    journalctl --help
+    man <nameofcommand> (man ls, man journalctl)
+    apropos director : searching for command
+    
 
   ### login to local and Remote Graphical and Text Mode Consoles
-  
+  - 
 
 ## Operations Deployments 25%
 
